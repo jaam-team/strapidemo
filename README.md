@@ -54,4 +54,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ---
 
+## Installing Strapi into AWS EC2:
+- [Steps] (https://docs.strapi.io/developer-docs/latest/development/providers.html#installing-providers) - Follow steps from this link
+
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
